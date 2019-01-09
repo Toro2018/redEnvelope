@@ -1,0 +1,36 @@
+.targetArea {    
+    width: 90%;  
+    height: 70%;
+}
+
+.total {
+    font-size: 40px;
+    color: red;
+    position: absolute;
+    top: 30%;
+    width: 100%;      
+}
+
+h1 {  
+    font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+}
+
+label {
+ font-family: fantasy;   
+ margin:10px auto;
+}
+
+ .target {
+   position: absolute;   
+   font-size: 20px;
+   cursor: grab;
+   
+   height: 100px; 
+   width: 100px;
+   background-position: center; 
+   background-size: cover;
+   background-repeat: no-repeat;
+   display: flex;
+   flex-flow: column-reverse;
+  }
