@@ -1,0 +1,13 @@
+{
+  "main.css": "/redEnvelope/static/css/main.5a7b73fa.chunk.css",
+  "main.js": "/redEnvelope/static/js/main.ccef22a1.chunk.js",
+  "main.js.map": "/redEnvelope/static/js/main.ccef22a1.chunk.js.map",
+  "static/js/1.fbfa9ac1.chunk.js": "/redEnvelope/static/js/1.fbfa9ac1.chunk.js",
+  "static/js/1.fbfa9ac1.chunk.js.map": "/redEnvelope/static/js/1.fbfa9ac1.chunk.js.map",
+  "runtime~main.js": "/redEnvelope/static/js/runtime~main.172f7f1a.js",
+  "runtime~main.js.map": "/redEnvelope/static/js/runtime~main.172f7f1a.js.map",
+  "static/css/main.5a7b73fa.chunk.css.map": "/redEnvelope/static/css/main.5a7b73fa.chunk.css.map",
+  "index.html": "/redEnvelope/index.html",
+  "precache-manifest.5d601eb97d8a5b3c9e99baa0c83c6ccc.js": "/redEnvelope/precache-manifest.5d601eb97d8a5b3c9e99baa0c83c6ccc.js",
+  "service-worker.js": "/redEnvelope/service-worker.js"
+}
